@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualGit", "ManualGit\ManualGit.csproj", "{F7F140B7-A7A5-452E-9E00-9207A5B2916A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F140B7-A7A5-452E-9E00-9207A5B2916A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F140B7-A7A5-452E-9E00-9207A5B2916A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F140B7-A7A5-452E-9E00-9207A5B2916A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F140B7-A7A5-452E-9E00-9207A5B2916A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {400A4E2E-63F3-4F9E-8B48-9407FD784C00}
+	EndGlobalSection
+EndGlobal
